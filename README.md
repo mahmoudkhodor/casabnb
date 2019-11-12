@@ -10,3 +10,4 @@ The project composes:
 - Authentication
 
 Technologies used are: Angular framework and Ionic framework for the front end, I used capacitor for the mobile development and Electron.js for the desktop developement, the backend was done using Firebase
+![hello](casabnb\readmeimages\IMG-20191104-WA0008.jpg)
