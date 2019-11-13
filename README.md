@@ -29,16 +29,16 @@ Technologies used are: Angular framework and Ionic framework for the front end, 
 
 ## Booking page
 
-<img src="readmeimages/7.PNG" alt="Edit Offers" height="450" width="270">
+<img src="readmeimages/7.png" alt="Edit Offers" height="450" width="270">
 
 ## Offers Page
 
-<img src="readmeimages/5.PNG" alt="Offers" height="450" width="270">
+<img src="readmeimages/5.png" alt="Offers" height="450" width="270">
 
 ## Edit offers Page
 
-<img src="readmeimages/6.PNG" alt="Edit Offers" height="450" width="270">
+<img src="readmeimages/6.png" alt="Edit Offers" height="450" width="270">
 
 ## Added googles map
 
-<img src="readmeimages/8.PNG" alt="Google Map" height="450" width="270">
+<img src="readmeimages/8.png" alt="Google Map" height="450" width="270">
