@@ -11,34 +11,34 @@ The project composes:
 
 Technologies used are: Angular framework and Ionic framework for the front end, I used capacitor for the mobile development and Electron.js for the desktop developement, the backend was done using Firebase
 
-### Planning for the project
+## Planning for the project
 
 ![hello](readmeimages/1.PNG)
 
 ![hello](readmeimages/2.PNG)
 
-### Authentication page
+## Authentication page
 
-<img src="readmeimages/4.PNG" alt="Authentication" height="450" width="250">
+<img src="readmeimages/4.PNG" alt="Authentication" height="450" width="270">
 
 <!-- ![hello](readmeimages/4.PNG) -->
 
-### Discover places page
+## Discover places page
 
-<img src="readmeimages/3.PNG" alt="Discover Places" height="450" width="300">
+<img src="readmeimages/3.PNG" alt="Discover Places" height="450" width="270">
 
-### Booking page
+## Booking page
 
-<img src="readmeimages/7.PNG" alt="Edit Offers" height="450" width="300">
+<img src="readmeimages/7.PNG" alt="Edit Offers" height="450" width="270">
 
-### Offers Page
+## Offers Page
 
-<img src="readmeimages/5.PNG" alt="Offers" height="450" width="300">
+<img src="readmeimages/5.PNG" alt="Offers" height="450" width="270">
 
-### Edit offers Page
+## Edit offers Page
 
-<img src="readmeimages/6.PNG" alt="Edit Offers" height="450" width="300">
+<img src="readmeimages/6.PNG" alt="Edit Offers" height="450" width="270">
 
-### Added google map
+## Added googles map
 
-<img src="readmeimages/8.PNG" alt="Edit Offers" height="450" width="300">
+<img src="readmeimages/8.PNG" alt="Google Map" height="450" width="270">
