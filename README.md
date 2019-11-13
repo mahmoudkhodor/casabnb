@@ -19,18 +19,26 @@ Technologies used are: Angular framework and Ionic framework for the front end, 
 
 ### Authentication page
 
-<img src="readmeimages/4.PNG" alt="Smiley face" height="450" width="250">
+<img src="readmeimages/4.PNG" alt="Authentication" height="450" width="250">
 
 <!-- ![hello](readmeimages/4.PNG) -->
 
 ### Discover places page
 
-<img src="readmeimages/3.PNG" alt="Smiley face" height="450" width="250">
+<img src="readmeimages/3.PNG" alt="Discover Places" height="450" width="300">
+
+### Booking page
+
+<img src="readmeimages/7.PNG" alt="Edit Offers" height="450" width="300">
 
 ### Offers Page
 
-<img src="readmeimages/5.PNG" alt="Smiley face" height="450" width="250">
+<img src="readmeimages/5.PNG" alt="Offers" height="450" width="300">
 
 ### Edit offers Page
 
-<img src="readmeimages/6.PNG" alt="Smiley face" height="450" width="250">
+<img src="readmeimages/6.PNG" alt="Edit Offers" height="450" width="300">
+
+### Added google map
+
+<img src="readmeimages/8.PNG" alt="Edit Offers" height="450" width="300">
